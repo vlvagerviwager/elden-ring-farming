@@ -16,3 +16,7 @@
 ## Thin Beast Bones
 
 - Agheel Lake North
+
+## Cracked Crystal
+
+- Selia Crystal Tunnel
